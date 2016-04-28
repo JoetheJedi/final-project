@@ -1,0 +1,6 @@
+When i intially thought out my program it did seem alittle simple. I was just going to be a list and depending on the users choice it would open a bunch of videos based on their choice.
+After I got feedback from professor halfaro i noticed he made some valid points. As is my program would leave lots of room for error.Specifially if the user chose to imput something that wasnt listed it would just crash so i decided to implement a when True loop to prevent that.
+Then I changed the idea of my project. I wanted to make 3 functions that provided games and once the user chose the game it would open a trailer for the game.
+I achieved that by using the selenium module as well as "if" statements that we learned earlier in the class.
+
+I then called each function named after the genre and everything worked great!
